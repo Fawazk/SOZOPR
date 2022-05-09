@@ -1,0 +1,17 @@
+.exploreimagesone{
+    width:13%;
+    margin-left:55%;
+    margin-top:1.5%;
+    /* height:10%; */
+}
+.exploreimagestwo{
+    width:13%;
+    margin-left:150px;
+    margin-top:8%;
+    visibility: inherit;
+    position:relative;
+}
+.exploreimagesthree{
+    width:12%;
+    margin-left:72%;
+}

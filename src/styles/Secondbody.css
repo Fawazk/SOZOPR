@@ -1,0 +1,23 @@
+.secondcontent{
+    background-color:#B00909;
+    height: 490px;
+    width:100%;
+    text-align: center;
+    color:#FFF;
+}
+
+.contentabout{
+    margin-top:3%;
+    margin-bottom:3%;
+}
+.moretext{
+    color:#DDDDDD;
+    font-size:12px;
+}
+.aboutmore{
+    margin-left:55%;
+    display:flex;
+}
+.aboutustext{
+    margin-left:3%;
+}

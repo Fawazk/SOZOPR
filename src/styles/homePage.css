@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.body{
+    background-color:#B00909;
+    height:100%;
+    width:100%;
+}
+.thirdcontent{
+    background-color:#FFF;
+    height: 650px;
+    width:100%;
+}
+.fourthcontent{
+    background-color:#B00909;
+    height: 720px;
+    width:100%;
+}
+.fifthcontent{
+    background-color:#000;
+    height: 850px;
+    width:100%;
+}
